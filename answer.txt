@@ -1,0 +1,2 @@
+The title attribute almost seems like a header but it's not. 
+Like if you use the command title, you're using it because that's what you're naming that specific line or "element."
